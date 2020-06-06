@@ -1,0 +1,1 @@
+Provider=SQLOLEDB;Data Source=NACER-PC;Integrated Security=SSPI;Initial Catalog=bearings
